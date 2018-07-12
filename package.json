@@ -1,0 +1,16 @@
+{
+  "name": "@brainstaff/migrate-monorepo",
+  "version": "0.1.0",
+  "description": "Migrate toolkit monorepo.",
+  "main": "index.js",
+  "repository": "https://github.com/brainstaff/node-migrate.git",
+  "author": "Alexey Kornilov <alexey.kornilov@kavolorn.ru>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^2.11.0"
+  }
+}

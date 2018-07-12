@@ -1,0 +1,11 @@
+{
+  "name": "@brainstaff/migrate-mongodb",
+  "version": "0.1.0",
+  "description": "Migrate toolkit MongoDB adapter.",
+  "main": "dist/index.js",
+  "author": "Alexey Kornilov <alexey.kornilov@kavolorn.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}

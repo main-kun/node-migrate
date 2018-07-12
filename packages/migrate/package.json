@@ -1,0 +1,12 @@
+{
+  "name": "@brainstaff/migrate",
+  "version": "0.1.0",
+  "description": "Migrate toolkit for Node.js.",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "author": "Alexey Kornilov <alexey.kornilov@kavolorn.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
