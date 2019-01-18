@@ -7,6 +7,10 @@
   "author": "Alexey Kornilov <alexey.kornilov@kavolorn.ru>",
   "license": "MIT",
   "dependencies": {
+    "moment": "^2.23.0",
     "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
   }
 }
